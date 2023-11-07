@@ -18,7 +18,7 @@ El problema a resolver se denomina *TV Game*. El enunciado lo encuentra anexo y 
 - PYTH3 3.5.1 - Python 3
 
 ### Traducción del enunciado
-El siguiente juego de TV lo jugarán individualmente en un tipo especial de laberinto. El jugador pisará una alfombra con un dibujo como el de la fig. 1, y esperará en la posición A. Cada posición tiene dos salidas, etiquetadas con 0 y 1, que conducen a la siguiente posición. Para elegir qué salida tomar, el jugador debe responder a una pregunta. Si la respuesta es correcta, toma la salida 1; de lo contrario, toma la salida 0. Por supuesto, la respuesta puede ser deliberada o no. Por supuesto, la respuesta puede ser deliberadamente errónea si se busca el camino 0. La siguiente posición puede ser diferente o permanecer igual que antes. 
+El siguiente juego de TV lo jugarán individualmente en un tipo especial de laberinto. El jugador pisará una alfombra con un dibujo como el de la fig. 1, y esperará en la posición A. Cada posición tiene dos salidas, etiquetadas con 0 y 1, que conducen a la siguiente posición. Para elegir qué salida tomar, el jugador debe responder a una pregunta. Si la respuesta es correcta, toma la salida 1; de lo contrario, toma la salida 0. Por supuesto, la respuesta puede ser deliberada o no. Por supuesto, la respuesta puede ser deliberadamente errónea si se busca el camino 0. La siguiente posición puede ser diferente o permanecer igual que antes.
 
 Algunas de las posiciones, indicadas con un círculo doble, son especiales. Si, exactamente después de un número predeterminado de movimientos, el jugador se sitúa en una de esas posiciones especiales gana, de lo contrario pierde.
 
